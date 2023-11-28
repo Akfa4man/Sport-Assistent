@@ -20,6 +20,7 @@ namespace Sport_Assistent
         public SPAdminWind()
         {
             InitializeComponent();
+            MessageBox.Show("Коммит 2");
         }
 
         private void SPAdminWind_Load(object sender, EventArgs e)
