@@ -53,6 +53,7 @@ namespace Sport_Assistent
         private void entryButton_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Коммит 1");
+            MessageBox.Show("Коммит 1.1");
             try
             {
                 connector = new MySqlConnection(ConfigurationManager.ConnectionStrings["ProfileStart"].ConnectionString);
