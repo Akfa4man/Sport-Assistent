@@ -101,11 +101,6 @@ namespace Sport_Assistent
             else MessageBox.Show("Профиль не найден!");
         }
 
-        private void registrationButton_Click(object sender, EventArgs e)
-        {
-            VisualEffects.WindowChange(new RegistrationWind());
-        }
-
         private void entryPanel_Paint(object sender, PaintEventArgs e)
         {
 
@@ -124,6 +119,11 @@ namespace Sport_Assistent
         private void mainPanel_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void registrationButton_Click(object sender, EventArgs e)
+        {
+            VisualEffects.WindowChange(new RegistrationWind());
         }
     }
 }
