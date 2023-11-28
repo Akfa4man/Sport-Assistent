@@ -1,0 +1,79 @@
+D:\Sport Assistent\Sport Assistent\bin\Debug\Sport Assistent.exe.config
+D:\Sport Assistent\Sport Assistent\bin\Debug\Sport Assistent.exe
+D:\Sport Assistent\Sport Assistent\bin\Debug\Sport Assistent.pdb
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.csproj.AssemblyReference.cache
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.csproj.SuggestedBindingRedirects.cache
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.Properties.Resources.resources
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.csproj.GenerateResource.cache
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.csproj.CoreCompileInputs.cache
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.exe
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.pdb
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.BeginWind.resources
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.EntryWind.resources
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.RegistrationWind.resources
+D:\Sport Assistent\Sport Assistent\bin\Debug\MySqlConnector.dll
+D:\Sport Assistent\Sport Assistent\bin\Debug\System.Buffers.dll
+D:\Sport Assistent\Sport Assistent\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Sport Assistent\Sport Assistent\bin\Debug\System.Memory.dll
+D:\Sport Assistent\Sport Assistent\bin\Debug\System.Numerics.Vectors.dll
+D:\Sport Assistent\Sport Assistent\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sport Assistent\Sport Assistent\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Sport Assistent\Sport Assistent\bin\Debug\MySqlConnector.xml
+D:\Sport Assistent\Sport Assistent\bin\Debug\System.Buffers.xml
+D:\Sport Assistent\Sport Assistent\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Sport Assistent\Sport Assistent\bin\Debug\System.Memory.xml
+D:\Sport Assistent\Sport Assistent\bin\Debug\System.Numerics.Vectors.xml
+D:\Sport Assistent\Sport Assistent\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Sport Assistent\Sport Assistent\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.csproj.CopyComplete
+D:\Sport Assistent\Sport Assistent\bin\Debug\MySql.Data.dll
+D:\Sport Assistent\Sport Assistent\bin\Debug\MySql.Data.xml
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.AdminWind.resources
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.AccountantWind.resources
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.TrainerWind.resources
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.ClientWind.resources
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.SPAdminWind.resources
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.AccesRestorationWind.resources
+D:\Sport Assistent\Sport Assistent\bin\Debug\Sport Assistent.exe.manifest
+D:\Sport Assistent\Sport Assistent\bin\Debug\Sport Assistent.application
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.exe.manifest
+D:\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.application
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\Sport Assistent.exe.config
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\Sport Assistent.exe.manifest
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\Sport Assistent.application
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\Sport Assistent.exe
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\Sport Assistent.pdb
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\MySql.Data.dll
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\MySqlConnector.dll
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\System.Buffers.dll
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\System.Memory.dll
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\MySql.Data.xml
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\MySqlConnector.xml
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\System.Buffers.xml
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\System.Memory.xml
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.csproj.AssemblyReference.cache
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.BeginWind.resources
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.EntryWind.resources
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.AdminWind.resources
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.AccountantWind.resources
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.ClientWind.resources
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.AccesRestorationWind.resources
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.SPAdminWind.resources
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.TrainerWind.resources
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.RegistrationWind.resources
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport_Assistent.Properties.Resources.resources
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.csproj.GenerateResource.cache
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.csproj.CoreCompileInputs.cache
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.exe.manifest
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.application
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.csproj.CopyComplete
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.exe
+C:\Users\IVANr\Desktop\Sport Assistent\Sport Assistent\obj\Debug\Sport Assistent.pdb

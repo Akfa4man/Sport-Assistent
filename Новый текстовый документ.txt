@@ -1,0 +1,6 @@
+startingUSER USER
+clientISER client
+coachUSER coach
+accountantUSER accountant
+adminspUSER adminsp
+root root
