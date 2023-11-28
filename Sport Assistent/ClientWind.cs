@@ -42,6 +42,7 @@ namespace Sport_Assistent
             command.Parameters.Add("@Value5", MySqlDbType.VarChar).Value = password;
             command.ExecuteNonQuery();
             connector.Close();
+            MessageBox.Show("Коммит 3");
         }
         private void ProfileClient()
         {
