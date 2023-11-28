@@ -20,6 +20,7 @@ namespace Sport_Assistent
         public TrainerWind()
         {
             InitializeComponent();
+            MessageBox.Show("Коммит 3");
         }
 
         private void TrainerWind_Load(object sender, EventArgs e)
