@@ -26,6 +26,10 @@ namespace Sport_Assistent
         {
         
         }
+        private void Recalculation()
+        {
+            MessageBox.Show("Коммит 5");
+        }
 
         private void accountantLabel_Click(object sender, EventArgs e)
         {
@@ -55,6 +59,11 @@ namespace Sport_Assistent
         private void exitButton_Click(object sender, EventArgs e)
         {
             VisualEffects.WindowChange(new EntryWind());
+        }
+
+        private void dataPanel_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
