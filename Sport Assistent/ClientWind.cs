@@ -43,6 +43,7 @@ namespace Sport_Assistent
             command.ExecuteNonQuery();
             connector.Close();
         }
+        //edxeadwedwedaqedeadedxedx
         private void ProfileClient()
         {
             connector = new MySqlConnection(ConfigurationManager.ConnectionStrings["ProfileClient"].ConnectionString);
